@@ -15,7 +15,7 @@ export default function Home() {
       <Head>
         <title>Daftar Bioskop</title>
         <meta name="description" content="Movie List" />
-        <link rel="icon" href="/jasdhjagda_ico_5T7_icon.ico" />
+        <link rel="icon" href="/undraw_home_cinema_l7yl_yks_icon.ico" />
       </Head>
 
       <div className="myBG">
